@@ -12,4 +12,8 @@
   - used to check for installed packges.
 - Debian : ```dpkg --get-selections | grep pkg-name```
   - to search for specific package ex - ( dpkg --get-selections | grep postgres )
+- ```apt-get update```
+  - use to update packges
+- ```apt-get upgrade```
+  - use to upgrade packages
   
