@@ -16,4 +16,5 @@
   - use to update packges
 - ```apt-get upgrade```
   - use to upgrade packages
-  
+- ```sudo lshw -C display```
+  - use to get display information
