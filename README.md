@@ -18,3 +18,5 @@
   - use to upgrade packages
 - ```sudo lshw -C display```
   - use to get display information
+- ```get all services list```
+  - sudo service --status-all
