@@ -20,3 +20,5 @@
   - use to get display information
 - ```get all services list```
   - sudo service --status-all
+- ```tail logs```
+  - sudo tail -f fileName.txt
